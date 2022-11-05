@@ -1,0 +1,31 @@
+.navbar {
+  display: flex;
+  background-color: rgb(59, 39, 95);
+  justify-content: center;
+}
+
+.navbar_items {
+  display: inline-flex;
+  list-style: none;
+
+}
+
+.navbar_items a {
+  display: flex;
+  text-decoration: none;
+  font-size: 24px;
+  margin: 0 10rem;
+  color:#FFF;;
+}
+
+.container {
+  padding: 0 8rem;
+}
+
+
+.books_list {
+  margin-top: 2rem;
+}
+.books_list a {
+  text-decoration: none;
+}
